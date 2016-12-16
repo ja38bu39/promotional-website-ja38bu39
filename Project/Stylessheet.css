@@ -1,0 +1,69 @@
+#title {
+position:relative;
+display:block;
+background-color:blue;
+width:50%;
+height:50px;
+float:left;
+border-radius: 15;
+border:solid black 2px;
+text-align: center;
+bottom: 2px}
+
+#second {
+position:relative;
+display:block;
+background-color:blue;
+width:50%;
+height:50px;
+float:left;
+border-radius: 15;
+border:solid black 2px;
+text-align: center;
+bottom: 2px}
+
+#third {
+position:relative;
+display:block;
+background-color:blue;
+width:220px;
+height:50px;
+border-radius: 15;
+border:solid black 2px;
+text-align: center;
+bottom: 2px}
+
+#fourth {
+position:relative;
+display:block;
+background-color:blue;
+width:220px;
+height:50px;
+border-radius: 15;
+border:solid black 2px;
+text-align: center;
+bottom: 2px}
+
+#left_block {
+position:relative;
+display:block;
+background-color:blue;
+width:220px;
+height:30%;
+float:left;
+border-radius: 15;
+border:solid black 2px;
+text-align: center;
+bottom: 2px}
+
+#middle_block {
+position:relative;
+display:block;
+background-color:blue;
+width:220px;
+height:70%;
+float:left;
+border-radius: 15;
+border:solid black 2px;
+text-align: center;
+bottom: 2px}
